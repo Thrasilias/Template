@@ -1,0 +1,7 @@
+name: Template
+version: ${project.version}
+main: nl.thrasilias.template.Template
+api-version: 1.16
+authors: [Thrasilias]
+description: This is a template sample i took from Pl3xCraft and use it myself everywhere. highly recommend this for others
+website: https://github.com/Thrasilias/Template
